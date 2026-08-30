@@ -1,1 +1,1 @@
-node countdown.js
+node countdown .js
