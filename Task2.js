@@ -1,4 +1,4 @@
-setTimeout(() =>  {
+setTimeout(() => {
     console.log("Timer finished");
 }, 3000);
 
